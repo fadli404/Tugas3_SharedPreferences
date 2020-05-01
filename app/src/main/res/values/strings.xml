@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="atas1">NGASUH</string>
+    <string name="atas2">Siap Menjadi Orangtua Muda</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="hallo">Hallo</string>
+    <string name="password_2">Confirm Password</string>
+    <string name="hp">Nomor Telepon</string>
+    <string name="lupa">Lupa password?</string>
+    <string name="masuk">Masuk</string>
+    <string name="keluar">Logout</string>
+    <string name="register_1">Daftar</string>
+    <string name="register_2">Belum punya akun? Yuk Daftar</string>
+</resources>
